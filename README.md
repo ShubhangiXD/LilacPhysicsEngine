@@ -1,5 +1,5 @@
 
-# LilacPhysicsEngine
+# ParticleSimulation
 
 Introduction to Physics simulations, starting out with a beginner particle simulation. <br>
 This approach uses a simplified version of the Verlet Integration, which is similar to Euler, but is way more accurate compared to the latter.
