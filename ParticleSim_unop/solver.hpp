@@ -13,7 +13,7 @@
 #include <cmath>
 #include <SFML/Graphics.hpp>
 
-#include "utils/math.hpp"
+#include "../utils/math.hpp"
 
 
 struct VerletObject
